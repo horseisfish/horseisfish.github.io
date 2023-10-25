@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Shih-Yu
+first_name: Shih-Yu Ma
 middle_name: 
-last_name: Ma
+last_name: 馬世宇
 email: leoma0219@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Shih-Yu Ma's personal space.
@@ -271,8 +271,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Shih-Yu]
-  first_name: [Ma]
+  last_name: [Ma]
+  first_name: [Shih-Yu]
 
   style: apa
   locale: en

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm delighted to announce that I'll be giving a presentation of "DrivingVibe" at the MobileHCI 2023. :tada:
+I'm excited to share the news that I'll be giving a presentation of "DrivingVibe" at the MobileHCI 2023. :tada:
