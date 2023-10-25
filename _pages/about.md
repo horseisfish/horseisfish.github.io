@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Master in Information Design @Taiwan Tech
+subtitle: Master in Information Design @ Taiwan Tech
 profile:
   align: right
   image: my_pic.jpg
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a passionate researcher with a focus on cutting-edge technologies such as mixed reality, artificial intelligence, machine learning, neural science, and haptic devices. My academic background includes a double major in electrical engineering and industrial design, which enables me to approach problems from various perspectives.
+I'm a passionate researcher with a focus on cutting-edge technologies such as mixed reality, artificial intelligence, machine learning, cognitive science, and haptic devices. My academic background includes a double major in electrical engineering and industrial design, which enables me to approach problems from various perspectives.
 
 Currently, I just finished a visiting scholar program at CU Boulder [BAIC lab](https://baic.center/), where I'm excitedly working on a fascinating project that combines mixed reality with functional near-infrared spectroscopy (fNIRS). This endeavor allows me to explore the potential applications of MR and fNIRS technology together.
 
