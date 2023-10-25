@@ -1,6 +1,18 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# "AJP":
+#   url: https://aapt.scitation.org/journal/ajp
+#   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+# "PhysRev":
+#   url: https://journals.aps.org/
+
+"AutoUI23":
+  url: https://www.auto-ui.org/23/
+
+"MobileHCI23":
+  url: https://mobilehci.acm.org/2023/
+
+"Siggraph23":
+  url: https://s2023.siggraph.org/
+
+"MIMSVAI22":
+  url: https://mimsvai.github.io/?year=2022
