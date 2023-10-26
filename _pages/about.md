@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Master in Information Design @ Taiwan Tech
+subtitle: Master's in Information Design @ Taiwan Tech
 profile:
   align: right
   image: my_pic.jpg
