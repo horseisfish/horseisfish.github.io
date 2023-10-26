@@ -26,14 +26,15 @@
   "education": [
     {
       "institution": "University of Colorado, Boulder",
-      "url": "https://www.colorado.edu/cs/",
+      "url": "https://baic.center/",
       "area": "Computer Science",
       "studyType": "Visiting Scholar",
       "startDate": "2023-02",
       "endDate": "2023-08",
       "score": "",
       "courses": [
-        "Cognitive Science"
+        "Advisor: <a href='https://www.tomyeh.info/'>Tom Yeh",
+        "Research focused on Cognitive Science and Mixed Reality"
       ]
     },
     {
@@ -45,20 +46,27 @@
       "endDate": "2023-08",
       "score": "",
       "courses": [
-        "Mixed Reality"
+        "Advisor: <a href='https://scholar.google.com/citations?user=Unwg__kAAAAJ'>Neng-Hao Yu</a>",
+        "Thesis: Reducing Cybersickness in Virtual Reality Driving Experiences Using Head-Mounted Vibrational Feedback Device",
+        "Research Assistant at Intelligent User Interfaces (IUI) Lab",
+        "TA of Interactive Storytelling in Mixed Reality, Creative Coding"
       ]
     },
     {
       "institution": "National Taiwan University of Science and Technology",
       "url": "https://www.ntust.edu.tw/",
       "area": [
-        "Electical Engineering & Industrial Design"
+        "Industrial Design & Electrical Engineering"
       ],
       "studyType": "Bachelor",
       "startDate": "2016-09",
       "endDate": "2020-08",
       "score": "",
-      "courses": []
+      "courses": [
+        "Activities and societies: Director of Student Association in Design Department",
+        "Industrial Design Graduation Project: Parallel Vacation - 2020 Young Pin Design Award in Social Design",
+        "Electrical Engineering Senior Project: Designing the bandwidth enhancement of a planar filter antenna using substrate integrated waveguide resonator."
+      ]
     }
   ],
   "work": [
@@ -68,9 +76,10 @@
       "url": "https://www.corma.com.tw/",
       "startDate": "2021-12",
       "endDate": "2022-09",
-      "summary": "Worked on AR and VR application developing. Developed project on Hololens, Quest, iOS and Android platforms",
+      "summary": "",
       "highlights": [
-        "Mixed Reality"
+        "Worked on AR and VR application developing.",
+        "Developed project on Hololens, Quest, iOS and Android platforms"
       ]
     }
   ],
