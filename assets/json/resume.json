@@ -22,7 +22,6 @@
       }
     ]
   },
-  "volunteer": [],
   "education": [
     {
       "institution": "University of Colorado, Boulder",
@@ -94,7 +93,70 @@
   ],
   "certificates": [],
   "publications": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Software",
+      "keywords": [
+        "Unity",
+        "Rhino",
+        "Adobe Creative Suit"
+      ]
+    },
+    {
+      "name": "Fabrication",
+      "keywords": [
+        "3D printing",
+        "Laser Cutting",
+        "Carpentry"
+      ]
+    },
+    {
+      "name": "Programming",
+      "keywords": [
+        "C#",
+        "C++",
+        "Matlab",
+        "Python",
+        "R",
+        "LaTeX"
+      ]
+    },
+    {
+      "name": "Hardware",
+      "keywords": [
+        "Arduino",
+        "Raspberry Pi"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "OpenHCI2021",
+      "position": "Chair",
+      "url": "https://www.2021.openhci.com/",
+      "startDate": "2020-08",
+      "endDate": "2021-08",
+      "summary": "OpenHCI'21 is the eleventh edition of a student-run workshop on Human-Computer Interaction (HCI), aimed at promoting the discipline of HCI and interdisciplinary collaboration. In the workshop, responsible for managing 1) speaker arrangements, 2) team and participant recruitment, 3) equipment and webpage development, as well as 4) audiovisual recording.",
+      "highlights": [
+        "Public Relation",
+        "Human Resource",
+        "Team Management"
+      ]
+    },
+    {
+      "organization": "OpenHCI2019",
+      "position": "Tech TA",
+      "url": "https://www.2019.openhci.com/",
+      "startDate": "2018-08",
+      "endDate": "2019-08",
+      "summary": "OpenHCI'19 is the tenth edition of a student-organized workshop on Human-Computer Interaction (HCI), with the objective of promoting the HCI discipline and fostering interdisciplinary collaboration. The Tech TA involves guiding participants through the Double Diamond model and providing consultation for hardware and software development.",
+      "highlights": [
+        "Design Thinking",
+        "Hardware and Software Integration",
+        "Team Building"
+      ]
+    }
+  ],
   "languages": [
     {
       "language": "Chinese",
@@ -105,7 +167,32 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Cellist and Pianist",
+      "keywords": [
+        "Performing in National Concert Hall as concerto Solo",
+        "Being invited to international music festival"
+      ]
+    },
+    {
+      "name": "Swim",
+      "keywords": [
+        "Lifeguard license",
+        "Surfing"
+      ]
+    },
+    {
+      "name": "Photograph",
+      "keywords": []
+    },
+    {
+      "name": "Travel",
+      "keywords": [
+        "Taiwan tour guide license"
+      ]
+    }
+  ],
   "references": [],
   "projects": []
 }
