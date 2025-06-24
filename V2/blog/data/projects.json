@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Mixed Reality Driver Warning Systems with fNIRS",
+    "description": "A preliminary study investigating the potential of mixed reality (MR) to enhance driver warning systems, examining attention-shifting methods and hazard perception using functional near-infrared spectroscopy (fNIRS).",
+    "year": 2023,
+    "link": "/papers/FAST.pdf"
+  },
+  {
+    "title": "DrivingVibe: VR Driving Experience Enhancement",
+    "description": "A vibrotactile feedback system using a 360-degree headband to enhance VR driving motion experiences through mirroring and 3D inertia-based approaches.",
+    "year": 2023,
+    "link": "/papers/DrivingVibe.pdf"
+  },
+  {
+    "title": "Alice in Gravityland: Gravity Experiences in VR",
+    "description": "A VR adventure exploring three gravity experiences with novel around-the-head vibrotactile feedback using illusory tactile motion.",
+    "year": 2023,
+    "link": "/papers/Alice.pdf"
+  },
+  {
+    "title": "InertiaVibe: Cybersickness Reduction",
+    "description": "A low-fidelity approach to simulate lateral inertial forces using headset-integrated vibration motors to reduce cybersickness and enhance VR experience.",
+    "year": 2023,
+    "link": "/papers/InertiaVibe.pdf"
+  },
+  {
+    "title": "VR Familiar Tourism Experience",
+    "description": "An empirical study exploring VR's relevance in visiting familiar places using Google Earth VR, investigating the experience framework and empirical features.",
+    "year": 2022,
+    "link": "/papers/ExploringtheExperienceofTraveling.pdf"
+  }
+] 

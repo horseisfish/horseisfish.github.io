@@ -1,0 +1,42 @@
+[
+  {
+    "authors": "Ma, Shih-Yu and Brady, Nolan Robert and Han, Xu and Yu, Neng-Hao and Yeh, Tom",
+    "title": "Exploring Mixed-Reality for Enhancing Driver Warning Systems: A Preliminary Study on Attention-Shifting Methods and Hazard Perception",
+    "venue": "AutomotiveUI '23 Adjunct",
+    "year": "2023",
+    "link": "/papers/FAST.pdf",
+    "selected": true
+  },
+  {
+    "authors": "Yu, Neng-Hao and Ma, Shih-Yu and Lin, Cong-Min and Fan, Chi-Aan and Taglialatela, Luca E. and Huang, Tsai-Yuan and Yu, Carolyn and Cheng, Yun-Ting and Liao, Ya-Chi and Chen, Mike Y.",
+    "title": "DrivingVibe: Enhancing VR Driving Experience Using Inertia-Based Vibrotactile Feedback around the Head",
+    "venue": "Proc. ACM Hum.-Comput. Interact.",
+    "year": "2023",
+    "link": "/papers/DrivingVibe.pdf",
+    "selected": true
+  },
+  {
+    "authors": "Taglialatela, Luca E. and Chang, Chiao-Ju and Chen, Shu-Wen and Chang, Yi-Han and Chen, Chang-Min and Yang, Zih-Huei and Lin, Tsung-Min and Ma, Shih-Yu and Yu, Neng-Hao and Chen, Mike Y.",
+    "title": "Alice in Gravityland: Augmenting Gravity Experiences with Around-the-Head Vibrotactile Feedback and Illusory Tactile Motion",
+    "venue": "ACM SIGGRAPH 2023 Immersive Pavilion",
+    "year": "2023",
+    "link": "/papers/Alice.pdf",
+    "selected": false
+  },
+  {
+    "authors": "Ma, Shih-Yu and Lin, Cong-Min and Wang, Chung-Wei and Yu, Neng-Hao and Chen, Mike Y.",
+    "title": "InertiaVibe: Low-Fidelity Simulation of Inertia Using Head-Mounted Vibrotactile Feedback to Reduce Cybersickness and Enhance VR Experience",
+    "venue": "UbiComp/ISWC '22 Adjunct",
+    "year": "2023",
+    "link": "/papers/InertiaVibe.pdf",
+    "selected": false
+  },
+  {
+    "authors": "Hung, Peng-Kai and Liang, Rung-Huei and Ma, Shih-Yu and Kong, Bo-Wen",
+    "title": "Exploring the Experience of Traveling to Familiar Places in VR: An Empirical Study Using Google Earth VR",
+    "venue": "International Journal of Human–Computer Interaction",
+    "year": "2022",
+    "link": "/papers/ExploringtheExperienceofTraveling.pdf",
+    "selected": true
+  }
+] 
